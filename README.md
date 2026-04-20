@@ -1,16 +1,19 @@
-## Hi there 👋
+# Mohan Choudhari
 
-<!--
-**Mohan2227/Mohan2227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist | Machine Learning | NLP | Flask Developer
 
-Here are some ideas to get you started:
+## Skills
+- Python, Pandas, NumPy
+- Machine Learning
+- Data Visualization
+- NLP
+- Flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- House Price Prediction (Flask App)
+- Customer Churn Prediction
+- Fake News Detection
+- Movie Recommendation System
+
+## Goal
+To work as a Data Science Intern and solve real-world problems using machine learning.
